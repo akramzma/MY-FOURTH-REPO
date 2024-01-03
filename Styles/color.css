@@ -1,0 +1,23 @@
+p{
+    background-color: aquamarine;
+    border-bottom: 20px;
+      
+}
+
+ul
+{
+  font-size: larger;
+  background-color: cadetblue;
+}
+h2{
+    background-color: aqua;
+}
+h3{
+    background-color: cornflowerblue;
+    padding: 15px;
+    font-size: 40px;
+}
+div{
+    font-style: italic;
+    
+}
